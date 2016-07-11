@@ -285,6 +285,11 @@ button {
   font-size: 78%;
   margin: 50px auto 80px 446px;
 }
+button:hover
+{
+  color: #red;
+    background: black ;
+}
  
 .pop-wrap {
   font-family: Source Sans Pro;
