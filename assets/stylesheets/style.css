@@ -179,6 +179,7 @@ button {
   font-family: Source Sans Pro;
   display: flex;
   align-items: flex-start;
+  margin-bottom: 151px;
 }
 
 .pop-wrap h2 {
